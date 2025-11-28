@@ -1,0 +1,104 @@
+[
+  {
+    "title": "Major Arcana",
+    "description": "Learn the deeper themes of the 22 Major Arcana—each one acting as a symbolic chapter in the story of human evolution. These cards represent universal archetypes such as The Fool, The Magician, The Lovers, and The World, each revealing profound psychological patterns and spiritual milestones. Explore how the Major Arcana maps the Hero’s Journey, guiding you through stages of awakening, challenges, shadow work, breakthroughs, and ultimate transformation. Understand how these cards illuminate major life cycles, karmic lessons, destiny shifts, the unfolding of personal identity, and the key turning points that shape a person’s soul path. The Major Arcana doesn’t just predict events—it reflects your inner evolution, the lessons you’re mastering, and the spiritual forces influencing your life.",
+    "icon": "flare"
+  },
+  {
+    "title": "Minor Arcana",
+    "description": "Dive deeper into the everyday wisdom of the 56 Minor Arcana and discover how these cards reveal the subtleties of daily life—your emotions, reactions, habits, conflicts, desires, and interactions with others. Each card reflects a small but meaningful moment, capturing everything from emotional fluctuations and mental stress to personal victories and relationship dynamics. Study how the Minor Arcana document gradual growth, recurring patterns, and the small decisions that accumulate into long-term change. These cards serve as a mirror for your routines, your coping mechanisms, your mindset, and the subtle energies that shape your day-to-day reality. Together, they provide practical insight into navigating everyday challenges and opportunities with clarity and intention.",
+    "icon": "auto_fix_high"
+  },
+  {
+    "title": "Tarot Symbols",
+    "description": "Explore the rich symbolic language of tarot, a visual code composed of colors, elements, animals, gestures, weather patterns, celestial objects, and mythical imagery. Every detail in a card—whether it’s a mountain, a rising sun, a body of water, or the direction a character is facing—adds depth and nuance to the reading. Learn how symbols convey emotional tones, psychological messages, spiritual truths, and subconscious patterns that words alone cannot express. Understand how symbolic repetition across different cards creates thematic connections, and how tuning into symbolic cues strengthens your intuitive interpretations. Mastering symbols allows you to unlock hidden meanings, uncover subtle energies, and interpret even the most complex readings with greater insight and clarity.",
+    "icon": "info"
+  },
+
+  {
+    "title": "Card Suits",
+    "description": "Study the four suits—Wands, Cups, Swords, and Pentacles—and how each represents a distinct element of human experience. Wands (Fire) illuminate your passions, creativity, ambition, and spiritual drive. Cups (Water) reveal the emotional landscape—love, intuition, healing, relationships, and the heart’s wisdom. Swords (Air) represent intellect, communication, truth, conflict, analysis, and decision-making. Pentacles (Earth) highlight material reality—career, finances, health, responsibilities, and long-term stability. Follow the journey from Ace to Ten in each suit to understand how a situation evolves, intensifies, resolves, or transforms. These suits weave together to create a complete map of your inner and outer world, helping you interpret any reading with greater depth and accuracy.",
+    "icon": "category"
+  },
+  {
+    "title": "Numerology",
+    "description": "Discover how numbers form the foundational structure of tarot, shaping the meaning and progression of every suit. Each number 1–10 represents a universal stage of development: 1 (new beginnings and raw potential), 2 (duality and choices), 3 (creation and expansion), 4 (stability and structure), 5 (conflict and change), 6 (harmony and healing), 7 (reflection and testing), 8 (power and mastery), 9 (fulfillment and intensity), and 10 (completion and transition). Learn how numerology connects cards within the same number across different suits, revealing parallel stories and shared themes. This understanding helps you read with more consistency, precision, and symbolic depth, making tarot interpretation deeply intuitive and interconnected.",
+    "icon": "pin"
+  },
+  {
+    "title": "Court Cards",
+    "description": "Unlock the complex world of the Pages, Knights, Queens, and Kings—fourteen cards that represent real people, personality traits, emotional styles, roles in relationships, and stages of personal growth. Pages symbolize curiosity and beginnings, Knights show movement, exploration, and pursuit, Queens embody emotional intelligence, intuition, and internal mastery, while Kings represent leadership, wisdom, decision-making, and external control. Learn how to interpret court cards as aspects of yourself, influences from others, archetypal energies, spiritual guides, or symbolic messages about behavior and maturity. Understanding court cards gives you the ability to read nuanced interpersonal dynamics and deeper layers of personality in any situation.",
+    "icon": "groups"
+  },
+  {
+    "title": "Tarot Spreads",
+    "description": "Master tarot spreads from simple 1-card draws to multi-layered advanced layouts. Learn how each position in a spread represents an energy, question, timeline, influence, or outcome. Explore classic spreads like Past–Present–Future, the Celtic Cross, Horseshoe, Seven-Card Chakra, Relationship Dynamics, and Decision-Making Spreads. Understand how the placement of cards changes their meaning, how card interactions create a narrative, and how the flow of a spread reveals hidden influences, future potential, and deeper emotional currents. With strong spread mastery, you’ll know exactly how to structure readings for clarity, guidance, healing, and powerful intuitive insight.",
+    "icon": "view_module"
+  },
+  {
+    "title": "Intuition Training",
+    "description": "Strengthen your intuitive abilities through consistent practice, visualization techniques, pattern recognition, and deep symbolic listening. Learn how to access intuitive messages through emotional resonance, sensory impressions, body awareness, and energetic perception. Discover how to blend logic with intuition, interpret imagery beyond literal meaning, and trust spontaneous insights that arise during a reading. Intuition training helps you move beyond memorized card meanings into fluid, personalized interpretation, allowing you to read tarot with authenticity, confidence, and spiritual alignment.",
+    "icon": "psychology"
+  },
+  {
+    "title": "Reversed Cards",
+    "description": "Explore the multidimensional meaning of reversed cards, which reveal deeper layers of a situation. Reversals can indicate blocked energy, delays in progress, resistance to change, hidden motivations, unresolved trauma, suppressed emotions, or internalized lessons. Sometimes they soften difficult cards or intensify subtle messages. Learn the main reversal systems—shadow interpretation, opposite meaning, internal focus, energy weakening, or delayed timing—and choose the approach that aligns with your reading style. Understanding reversals allows you to see beneath the surface and interpret readings with greater nuance and emotional depth.",
+    "icon": "restart_alt"
+  },
+  {
+    "title": "Elemental Theory",
+    "description": "Dive into tarot’s elemental structure—Fire, Water, Air, and Earth—and understand how these forces shape the mood, direction, and intensity of a reading. Fire governs passion, inspiration, and action. Water represents emotion, intuition, healing, and relationships. Air symbolizes logic, communication, truth, and conflict. Earth reflects stability, work, finances, health, and the physical world. Learn how elements interact (Fire strengthens Air, Water nurtures Earth, Air disrupts Water, etc.), and how elemental balance reveals emotional states, energetic blockages, and dominant influences. Elemental theory enriches every reading by highlighting the energetic foundation of each situation.",
+    "icon": "local_fire_department"
+  },
+
+    {
+      "title": "Major Arcana",
+      "description": "Explore the profound wisdom encoded within the 22 Major Arcana, each card acting as a cosmic milestone in the soul’s evolution. These cards represent universal archetypes—The Fool as innocence and divine trust, The Magician as manifestation power, Strength as inner resilience, and The World as completion. Learn how the Major Arcana outlines the Hero’s Journey: the call to adventure, inner awakening, challenges that shape identity, moments of crisis, and ultimately spiritual rebirth. Understand how each card reflects karmic themes, destiny shifts, profound life lessons, and the deeper purpose behind major transitions and turning points. By studying the Major Arcana, you gain insight into the grand narrative of human existence and the soul’s path through cycles of growth and transformation.",
+      "icon": "flare"
+    },
+    {
+      "title": "Minor Arcana",
+      "description": "Dive deeper into the 56 Minor Arcana, which capture the daily patterns, choices, emotions, and interactions that shape the rhythm of life. These cards reflect how your thoughts influence your reality, how your emotions guide your intuition, and how your actions create momentum. Discover how the Minor Arcana break down complex experiences into smaller, digestible steps—showing personal efforts, inner struggles, temporary setbacks, breakthroughs, and the process of building habits. Learn to read how repeated themes in the cards reveal long-term patterns, relationship cycles, growth phases, and emotional development. The Minor Arcana act as a mirror to your day-to-day life, helping you understand what needs healing, nurturing, or balancing.",
+      "icon": "auto_fix_high"
+    },
+    {
+      "title": "Tarot Symbols",
+      "description": "Unlock the symbolic language hidden within tarot imagery—animals, colors, elements, celestial bodies, postures, landscapes, and mythological references. Every symbol enriches a card’s meaning: a lion signals courage and instinctual strength; mountains hint at upcoming challenges or long-term goals; water represents emotional flow; the sun symbolizes clarity and vitality. Study how symbols interact within a card to create depth, tone, and layers of interpretation. Learn to decode gestures, directions, clothing details, and even tiny background elements that reveal subtle messages. Mastering tarot symbolism helps you read intuitively, uncover hidden truths, and interpret cards in more nuanced and multidimensional ways.",
+      "icon": "info"
+    },
+    {
+      "title": "Card Suits",
+      "description": "Learn the profound meaning behind the four suits—Wands, Cups, Swords, and Pentacles—and how each one maps to a unique domain of human experience. Wands embody fire: creativity, passion, ambition, and drive. Cups reflect water: emotions, relationships, intuition, and spiritual healing. Swords represent air: thoughts, communication, clarity, conflict, and mental challenges. Pentacles symbolize earth: work, finances, health, stability, and the material world. Understand how each suit progresses from Ace to King, illustrating a complete journey—from the spark of an idea to mastery and fruition. Studying the suits helps you see patterns in your actions, emotions, thoughts, and practical life decisions.",
+      "icon": "category"
+    },
+    {
+      "title": "Numerology",
+      "description": "Discover how numerology forms the backbone of tarot structure. Every number in tarot carries a universal vibration: 1 brings beginnings and potential; 2 introduces duality and choices; 3 symbolizes creation and expansion; 4 stabilizes and creates foundations; 5 disrupts with challenges and change; 6 brings harmony, healing, and balance; 7 invites spiritual introspection; 8 represents power, karmic lessons, and mastery; 9 signals endings and fulfillment; 10 marks completion and transition to a new cycle. Understanding tarot numerology helps you interpret patterns across suits, connect meanings between cards, and read more consistently with intuitive depth.",
+      "icon": "pin"
+    },
+    {
+      "title": "Court Cards",
+      "description": "Explore the layered world of the Pages, Knights, Queens, and Kings—representing personality types, emotional maturity levels, communication styles, and behavioral patterns. Court cards can symbolize people in your life, aspects of yourself, relationship dynamics, or energies influencing a situation. Learn advanced methods to read court cards not only as individuals but also as roles, archetypes, messages, and phases of growth. Decode how each rank represents a specific level of mastery: Pages (beginnings and curiosity), Knights (action and movement), Queens (inner mastery and emotional intelligence), and Kings (outer mastery and leadership).",
+      "icon": "groups"
+    },
+    {
+      "title": "Tarot Spreads",
+      "description": "Master the craft of tarot layouts—from simple to advanced. Learn the classic 3-card spread (past–present–future), the deep analysis of the Celtic Cross, relationship clarity spreads, decision-making layouts, shadow work spreads, and manifestation grids. Understand how each position in a spread adds context, how cards interact with each other, and how the narrative flows across the layout. Discover how to choose the right spread depending on the type of question—love, career, healing, clarity, or spiritual guidance. A well-selected spread turns scattered insights into a clear and coherent story.",
+      "icon": "view_module"
+    },
+    {
+      "title": "Intuition Training",
+      "description": "Develop your intuitive abilities through guided exercises, energy awareness practices, meditation on symbols, and observation techniques. Learn to trust your first impressions, decipher emotional cues, and sense energetic shifts. Train yourself to blend intuitive knowing with structured tarot knowledge, forming a balanced reading style that feels natural and confident. Practice interpreting stories from imagery, noticing patterns, and reading beyond the literal meaning of cards. Strengthen the inner voice that guides interpretations, helping you deliver insightful, fluid, and meaningful readings.",
+      "icon": "psychology"
+    },
+    {
+      "title": "Reversed Cards",
+      "description": "Deepen your understanding of reversed cards and how they reveal subtle layers within a reading. Reversals may indicate blocked energy, internalized emotions, resistance, delays, avoidance, or lessons still unfolding. Learn how reversals can soften intense cards, amplify introspection, reveal unconscious motivations, or highlight hidden opportunities. Explore different reversal systems—energetic blockage, opposite meaning, shadow interpretation, slowed-down energy, or internalization. Choosing the right reversal method gives you flexibility and precision in your readings.",
+      "icon": "restart_alt"
+    },
+    {
+      "title": "Elemental Theory",
+      "description": "Study how Fire, Water, Air, and Earth form the energetic foundation of tarot interpretation. Each element represents a psychological force: Fire inspires action and passion; Water governs emotions and intuition; Air shapes thoughts and clarity; Earth grounds life in practicality and stability. Learn how elements interact—Fire and Air strengthening each other; Earth stabilizing Water; Air aggravating Fire; Water extinguishing Fire. Understanding elemental dynamics helps you interpret card combinations, balance energies in a reading, and identify which areas of life are thriving, conflicted, or needing attention.",
+      "icon": "local_fire_department"
+    }
+]
