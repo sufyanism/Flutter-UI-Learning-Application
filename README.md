@@ -18,8 +18,6 @@ populated using JSON files, with smooth UI and clean architecture.
 - JSON Assets
 - Material 3 UI
 
-
-
 ## Project Structure
 
 ```plaintext
@@ -62,6 +60,17 @@ assets/
 ]
 ```
 
+## Demo
+
+
+
+
+
+
+
+
+
+
 
 ## About Me 
 ✨ I’m **Sufyan bin Uzayr**, an open-source developer passionate about building and sharing meaningful projects.
@@ -77,6 +86,7 @@ You can learn more about me and my work at [sufyanism.com](https://sufyanism.com
 ➡ Follow us on Instagram: [zeba.academy](https://www.instagram.com/zeba.academy/)  <br/>
 
 **Thank you for visiting!**
+
 
 
 
