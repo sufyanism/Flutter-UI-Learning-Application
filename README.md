@@ -1,16 +1,64 @@
-# tarot_learning
+# Flutter Tarot Learning App
 
-A new Flutter project.
+A beautifully designed, JSON-powered Tarot Learning App built with Flutter and Riverpod.
+This app includes Learning, Meaning, and Daily Guidance sections — all dynamically
+populated using JSON files, with smooth UI and clean architecture.
+
+## Features
+- Tarot Learning Module
+- Tarot Meaning Module
+- Daily Guidance Section
+- Light &amp; Dark Theme Toggle
+- Smooth Navigation &amp; Transitions
+- Content-Driven JSON Loading
+
+## Tech Stack
+- Flutter
+- Riverpod State Management
+- JSON Assets
+- Material 3 UI
+
+
+
+## Project Structure
+
+```plaintext
+lib/
+├── main.dart
+├── screens/
+│ ├── main_screen.dart
+│ ├── learning_screen.dart
+
+│ ├── meaning_screen.dart
+│ ├── daily_screen.dart
+├── models/
+│ ├── learning_item.dart
+│ ├── meaning_item.dart
+│ └── daily_item.dart
+├── utils/
+│ ├── theme_provider.dart
+│ └── json_loader.dart
+assets/
+└── data/
+├── learning.json
+├── meaning.json
+└── daily_content.json
+```
 
 ## Getting Started
+1. Clone repository
+2. Install dependencies
+3. Add assets to pubspec.yaml
+4. Run app using flutter run
 
-This project is a starting point for a Flutter application.
+## JSON Example
+```plaintext
+[
+{
+"title": "Major Arcana",
+"description":"The 22 spiritual wisdom cards.",
+"icon": "arcana.png"
+}
+]
+```
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
