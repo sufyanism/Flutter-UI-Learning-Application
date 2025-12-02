@@ -61,15 +61,7 @@ assets/
 ```
 
 ## Demo
-
-
-
-
-
-
-
-
-
+https://github.com/user-attachments/assets/19a4ce28-32cb-41e1-8449-ede10092fb6c
 
 
 ## About Me 
@@ -86,6 +78,7 @@ You can learn more about me and my work at [sufyanism.com](https://sufyanism.com
 ➡ Follow us on Instagram: [zeba.academy](https://www.instagram.com/zeba.academy/)  <br/>
 
 **Thank you for visiting!**
+
 
 
 
